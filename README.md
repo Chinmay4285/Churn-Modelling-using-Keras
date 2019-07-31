@@ -3,7 +3,9 @@ The project teaches us ,how to churn customers data using deep learning librarie
 
 This folder contains three files,
 1.Dataset in .csv format
+
 2.Code in Jupyter notebook (.ipynb)
+
 3>Code in normal python file.
 
 please go through basic deep learning basics before you try to understand this simple code.
